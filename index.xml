@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on JabezBrew</title><link>https://jabezbrew.github.io/JabezBrew/</link><description>Recent content in Home on JabezBrew</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2025 00:17:12 +0000</lastBuildDate><atom:link href="https://jabezbrew.github.io/JabezBrew/index.xml" rel="self" type="application/rss+xml"/><item><title>Photos</title><link>https://jabezbrew.github.io/JabezBrew/photos/</link><pubDate>Sun, 05 Jan 2025 00:17:12 +0000</pubDate><guid>https://jabezbrew.github.io/JabezBrew/photos/</guid><description>&lt;p>$ ls ./gallery-showcase&lt;/p>
+&lt;blockquote>
+&lt;p>accessing medical induction photographs&amp;hellip;&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>so i kinda did a thing&amp;hellip;&lt;/p>
+&lt;/blockquote>
+&lt;h1 id="-medical-induction-gallery">📸 Medical Induction Gallery&lt;/h1>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>Location: Ghana College of Physicans and Surgeons, Accra
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Event: Induction of Newly Qualified Medical and Dental Practitioners
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Timeline: &lt;span style="color:#ae81ff">20&lt;/span> December, &lt;span style="color:#ae81ff">2024&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>$ls ./image_metadata.txt&lt;/p>
+&lt;blockquote>
+&lt;p>Format: High Resolution.
+Photographer: &lt;a href="https://www.instagram.com/plus_233_pixels/">+233 Pixels&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>$echo &amp;ldquo;View the event through pictures&amp;hellip;&amp;rdquo;&lt;/p>
+&lt;div class = "image-grid">
+&lt;img src="grad1.jpg" alt="Picture 1" style="width: 100%;">
+&lt;img src="grad2.jpg" alt="Picture 2" style="width: 100%;">
+&lt;img src="grad3.jpg" alt="Picture 3" style="width: 100%;">
+&lt;img src="grad4.jpg" alt="Picture 4" style="width: 100%;">
+&lt;img src="grad5.jpg" alt="Picture 5" style="width: 100%;">
+&lt;img src="grad6.jpg" alt="Picture 6" style="width: 100%;">
+&lt;img src="grad7.jpg" alt="Picture 7" style="width: 100%;">
+&lt;img src="grad8.jpg" alt="Picture 8" style="width: 100%;">
+&lt;img src="grad9.jpg" alt="Picture 9" style="width: 100%;">
+&lt;/div></description></item><item><title>Projects</title><link>https://jabezbrew.github.io/JabezBrew/projects/</link><pubDate>Fri, 03 Jan 2025 18:23:55 +0000</pubDate><guid>https://jabezbrew.github.io/JabezBrew/projects/</guid><description>&lt;p>$ ls ./projects-showcase&lt;/p>
+&lt;blockquote>
+&lt;p>Displaying key projects focusing on security, scalability, and real-world applications&amp;hellip;&lt;/p>
+&lt;/blockquote>
+&lt;h1 id="-customer-feeback-servicehttpsgithubcomjabezbrewcustomer_feedback_servicegit">&lt;a href="https://github.com/JabezBrew/Customer_Feedback_Service.git">💬 Customer Feeback Service&lt;/a>&lt;/h1>
+&lt;p>A scalable feedback management platform that transforms how e-commerce businesses gather and analyze customer insights. This MongoDB-powered service handles complex feedback data with pagination and filtering capabilities, making it easy to process thousands of customer reviews efficiently. The system&amp;rsquo;s flexible document structure accommodates varying feedback formats while maintaining fast query performance and data integrity.&lt;/p></description></item></channel></rss>
